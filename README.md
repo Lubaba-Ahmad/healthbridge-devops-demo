@@ -7,3 +7,5 @@ Medication synchronisation error between EMR and pharmacy module.
 
 Fix implemented:
 Improved data synchronization validation.
+
+Additional validation added to ensure medication records synchronise correctly between EMR and pharmacy systems.
